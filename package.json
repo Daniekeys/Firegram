@@ -1,5 +1,6 @@
 {
   "name": "firegram",
+  "homepage": "https://daniekeys-firegram.netlify.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
